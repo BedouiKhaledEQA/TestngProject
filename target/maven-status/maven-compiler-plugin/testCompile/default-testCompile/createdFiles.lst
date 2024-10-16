@@ -1,0 +1,5 @@
+locators\locators_performInspectElement.class
+factory\Base.class
+Pages\performInspectElementPage.class
+end2endTest\inspectHomePage.class
+hooks\Hooks.class
